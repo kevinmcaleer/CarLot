@@ -1,0 +1,5 @@
+/Users/kevinmcaleer/Xcode/CarLot/CarArrayController.m: In function '-[CarArrayController newObject]':
+/Users/kevinmcaleer/Xcode/CarLot/CarArrayController.m:16: warning: 'NSObject' may not respond to '-newObject'
+/Users/kevinmcaleer/Xcode/CarLot/CarArrayController.m:16: warning: (Messages without a matching method signature
+/Users/kevinmcaleer/Xcode/CarLot/CarArrayController.m:16: warning: will be assumed to return 'id' and accept
+/Users/kevinmcaleer/Xcode/CarLot/CarArrayController.m:16: warning: '...' as arguments.)

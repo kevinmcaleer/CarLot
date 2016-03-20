@@ -1,0 +1,264 @@
+TCarLot
+v7
+r0
+t278691663.573824
+cCheck dependencies
+cProcessInfoPlistFile /Users/kevinmcaleer/Xcode/CarLot/build/Debug/CarLot.app/Contents/Info.plist CarLot-Info.plist
+cCpResource build/Debug/CarLot.app/Contents/Resources/English.lproj/Credits.rtf English.lproj/Credits.rtf
+cCopyStringsFile /Users/kevinmcaleer/Xcode/CarLot/build/Debug/CarLot.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/kevinmcaleer/Xcode/CarLot/English.lproj/MainMenu.xib
+cCompileXIB /Users/kevinmcaleer/Xcode/CarLot/English.lproj/MyDocument.xib
+cProcessPCH /var/folders/wH/wHJERgQgE10b4aXHp8Utt++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CarLot_Prefix-dryxghjpplvfcpgqilnhulqqqiyh/CarLot_Prefix.pch.gch CarLot_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cDataModelCompile /Users/kevinmcaleer/Xcode/CarLot/build/Debug/CarLot.app/Contents/Resources/MyDocument.mom /Users/kevinmcaleer/Xcode/CarLot/MyDocument.xcdatamodel
+cCompileC build/CarLot.build/Debug/CarLot.build/Objects-normal/x86_64/MyDocument-528B0CF58FE91DC2.o /Users/kevinmcaleer/Xcode/CarLot/MyDocument.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CarLot.build/Debug/CarLot.build/Objects-normal/x86_64/main.o /Users/kevinmcaleer/Xcode/CarLot/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/kevinmcaleer/Xcode/CarLot/build/Debug/CarLot.app/Contents/MacOS/CarLot normal x86_64
+cTouch /Users/kevinmcaleer/Xcode/CarLot/build/Debug/CarLot.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004A583802000000000000043A
+t1247295490
+s1082
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A600B8400000000000013E6
+t1247808388
+s5094
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/kevinmcaleer/Xcode/CarLot/CarLot_Prefix.pch
+c000000004AEC407300000000000000D7
+t1256996979
+s215
+i<Foundation/Foundation.h>
+i<CoreData/CoreData.h>
+i<Cocoa/Cocoa.h>
+
+N/Users/kevinmcaleer/Xcode/CarLot/English.lproj/Credits.rtf
+c000000004AEC407300000000000001B4
+t1256996979
+s436
+
+N/Users/kevinmcaleer/Xcode/CarLot/English.lproj/InfoPlist.strings
+c000000004AEC4073000000000000005A
+t1256996979
+s90
+
+N/Users/kevinmcaleer/Xcode/CarLot/English.lproj/MainMenu.xib
+c000000004AEC407300000000000216BB
+t1256996979
+s136891
+
+N/Users/kevinmcaleer/Xcode/CarLot/English.lproj/MyDocument.xib
+c000000004AEC40730000000000002C83
+t1256996979
+s11395
+
+N/Users/kevinmcaleer/Xcode/CarLot/MyDocument.h
+c000000004AEC407300000000000000E2
+t1256996979
+s226
+i<Cocoa/Cocoa.h>
+
+N/Users/kevinmcaleer/Xcode/CarLot/MyDocument.m
+c000000004AEC4073000000000000022E
+t1256996979
+s558
+i"MyDocument.h"
+
+N/Users/kevinmcaleer/Xcode/CarLot/MyDocument.xcdatamodel
+c000000004AEC47C70000000000000088
+t1256998855
+s136
+
+N/Users/kevinmcaleer/Xcode/CarLot/build/CarLot.build/Debug/CarLot.build/Objects-normal/x86_64/CarLot.LinkFileList
+c000000004AEC47C800000000000000DF
+t1256998856
+s223
+
+N/Users/kevinmcaleer/Xcode/CarLot/build/CarLot.build/Debug/CarLot.build/Objects-normal/x86_64/MyDocument-528B0CF58FE91DC2.o
+t1256998862
+s19112
+
+N/Users/kevinmcaleer/Xcode/CarLot/build/CarLot.build/Debug/CarLot.build/Objects-normal/x86_64/main.o
+t1256998862
+s4976
+
+N/Users/kevinmcaleer/Xcode/CarLot/build/Debug/CarLot.app
+t1256998863
+s102
+
+N/Users/kevinmcaleer/Xcode/CarLot/build/Debug/CarLot.app/Contents/Info.plist
+t1256998856
+s2485
+
+N/Users/kevinmcaleer/Xcode/CarLot/build/Debug/CarLot.app/Contents/MacOS/CarLot
+t1256998863
+s10416
+
+N/Users/kevinmcaleer/Xcode/CarLot/build/Debug/CarLot.app/Contents/PkgInfo
+t1256998856
+s8
+
+N/Users/kevinmcaleer/Xcode/CarLot/build/Debug/CarLot.app/Contents/Resources/English.lproj/Credits.rtf
+t1256998856
+s436
+
+N/Users/kevinmcaleer/Xcode/CarLot/build/Debug/CarLot.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1256998856
+s90
+
+N/Users/kevinmcaleer/Xcode/CarLot/build/Debug/CarLot.app/Contents/Resources/English.lproj/MainMenu.nib
+t1256998856
+s30730
+
+N/Users/kevinmcaleer/Xcode/CarLot/build/Debug/CarLot.app/Contents/Resources/English.lproj/MyDocument.nib
+t1256998856
+s3552
+
+N/Users/kevinmcaleer/Xcode/CarLot/build/Debug/CarLot.app/Contents/Resources/MyDocument.mom
+t1256998862
+s1916
+
+N/Users/kevinmcaleer/Xcode/CarLot/main.m
+c000000004AEC40730000000000000104
+t1256996979
+s260
+i<Cocoa/Cocoa.h>
+
+N/var/folders/wH/wHJERgQgE10b4aXHp8Utt++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CarLot_Prefix-dryxghjpplvfcpgqilnhulqqqiyh/CarLot_Prefix.pch.gch
+t1256998862
+s54212368
+
+NCarLot-Info.plist
+c000000004AEC40730000000000000A6D
+t1256996979
+s2669
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies278691656#278691656#0(0"0(0#1#0"7947009927035180032#0"0#
+
+CCompileC build/CarLot.build/Debug/CarLot.build/Objects-normal/x86_64/MyDocument-528B0CF58FE91DC2.o /Users/kevinmcaleer/Xcode/CarLot/MyDocument.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s278691662.474206
+e278691662.749134
+r1
+xCompileC
+xbuild/CarLot.build/Debug/CarLot.build/Objects-normal/x86_64/MyDocument-528B0CF58FE91DC2.o
+x/Users/kevinmcaleer/Xcode/CarLot/MyDocument.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/kevinmcaleer/Xcode/CarLot/MyDocument.m278691662#278691662#0(0"0(0#0#45"/Users/kevinmcaleer/Xcode/CarLot/MyDocument.m4300882208#1056"    cd /Users/kevinmcaleer/Xcode/CarLot    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/kevinmcaleer/Xcode/CarLot/build/CarLot.build/Debug/CarLot.build/CarLot.hmap -F/Users/kevinmcaleer/Xcode/CarLot/build/Debug -I/Users/kevinmcaleer/Xcode/CarLot/build/Debug/include -I/Users/kevinmcaleer/Xcode/CarLot/build/CarLot.build/Debug/CarLot.build/DerivedSources/x86_64 -I/Users/kevinmcaleer/Xcode/CarLot/build/CarLot.build/Debug/CarLot.build/DerivedSources -include /var/folders/wH/wHJERgQgE10b4aXHp8Utt++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CarLot_Prefix-dryxghjpplvfcpgqilnhulqqqiyh/CarLot_Prefix.pch -c /Users/kevinmcaleer/Xcode/CarLot/MyDocument.m -o /Users/kevinmcaleer/Xcode/CarLot/build/CarLot.build/Debug/CarLot.build/Objects-normal/x86_64/MyDocument-528B0CF58FE91DC2.o0#
+
+CCompileC build/CarLot.build/Debug/CarLot.build/Objects-normal/x86_64/main.o /Users/kevinmcaleer/Xcode/CarLot/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s278691662.714266
+e278691662.896471
+r1
+xCompileC
+xbuild/CarLot.build/Debug/CarLot.build/Objects-normal/x86_64/main.o
+x/Users/kevinmcaleer/Xcode/CarLot/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@47"Compile /Users/kevinmcaleer/Xcode/CarLot/main.m278691662#278691662#0(0"0(0#0#39"/Users/kevinmcaleer/Xcode/CarLot/main.m4300882208#1027"    cd /Users/kevinmcaleer/Xcode/CarLot    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/kevinmcaleer/Xcode/CarLot/build/CarLot.build/Debug/CarLot.build/CarLot.hmap -F/Users/kevinmcaleer/Xcode/CarLot/build/Debug -I/Users/kevinmcaleer/Xcode/CarLot/build/Debug/include -I/Users/kevinmcaleer/Xcode/CarLot/build/CarLot.build/Debug/CarLot.build/DerivedSources/x86_64 -I/Users/kevinmcaleer/Xcode/CarLot/build/CarLot.build/Debug/CarLot.build/DerivedSources -include /var/folders/wH/wHJERgQgE10b4aXHp8Utt++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CarLot_Prefix-dryxghjpplvfcpgqilnhulqqqiyh/CarLot_Prefix.pch -c /Users/kevinmcaleer/Xcode/CarLot/main.m -o /Users/kevinmcaleer/Xcode/CarLot/build/CarLot.build/Debug/CarLot.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/kevinmcaleer/Xcode/CarLot/English.lproj/MainMenu.xib
+s278691656.336728
+e278691656.853694
+r1
+xCompileXIB
+x/Users/kevinmcaleer/Xcode/CarLot/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib278691656#278691656#0(0"0(0#0#59"/Users/kevinmcaleer/Xcode/CarLot/English.lproj/MainMenu.xib4300882208#308"    cd /Users/kevinmcaleer/Xcode/CarLot    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/kevinmcaleer/Xcode/CarLot/build/Debug/CarLot.app/Contents/Resources/English.lproj/MainMenu.nib /Users/kevinmcaleer/Xcode/CarLot/English.lproj/MainMenu.xib0#
+
+CCompileXIB /Users/kevinmcaleer/Xcode/CarLot/English.lproj/MyDocument.xib
+s278691656.554556
+e278691656.873762
+r1
+xCompileXIB
+x/Users/kevinmcaleer/Xcode/CarLot/English.lproj/MyDocument.xib
+lSLF07#2@39"CompileXIB English.lproj/MyDocument.xib278691656#278691656#0(0"0(0#0#61"/Users/kevinmcaleer/Xcode/CarLot/English.lproj/MyDocument.xib4300882208#312"    cd /Users/kevinmcaleer/Xcode/CarLot    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/kevinmcaleer/Xcode/CarLot/build/Debug/CarLot.app/Contents/Resources/English.lproj/MyDocument.nib /Users/kevinmcaleer/Xcode/CarLot/English.lproj/MyDocument.xib0#
+
+CCopyStringsFile /Users/kevinmcaleer/Xcode/CarLot/build/Debug/CarLot.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s278691656.160883
+e278691656.554453
+r1
+xCopyStringsFile
+x/Users/kevinmcaleer/Xcode/CarLot/build/Debug/CarLot.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings278691656#278691656#0(0"0(0#0#64"/Users/kevinmcaleer/Xcode/CarLot/English.lproj/InfoPlist.strings4300882208#353"    cd /Users/kevinmcaleer/Xcode/CarLot    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/kevinmcaleer/Xcode/CarLot/build/Debug/CarLot.app/Contents/Resources/English.lproj0#
+
+CCpResource build/Debug/CarLot.app/Contents/Resources/English.lproj/Credits.rtf English.lproj/Credits.rtf
+s278691656.109132
+e278691656.336599
+r1
+xCpResource
+xbuild/Debug/CarLot.app/Contents/Resources/English.lproj/Credits.rtf
+xEnglish.lproj/Credits.rtf
+lSLF07#2@30"Copy English.lproj/Credits.rtf278691656#278691656#0(0"0(0#0#58"/Users/kevinmcaleer/Xcode/CarLot/English.lproj/Credits.rtf4300882208#336"    cd /Users/kevinmcaleer/Xcode/CarLot    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/kevinmcaleer/Xcode/CarLot/English.lproj/Credits.rtf /Users/kevinmcaleer/Xcode/CarLot/build/Debug/CarLot.app/Contents/Resources/English.lproj0#
+
+CDataModelCompile /Users/kevinmcaleer/Xcode/CarLot/build/Debug/CarLot.app/Contents/Resources/MyDocument.mom /Users/kevinmcaleer/Xcode/CarLot/MyDocument.xcdatamodel
+s278691662.473080
+e278691662.714145
+r1
+xDataModelCompile
+x/Users/kevinmcaleer/Xcode/CarLot/build/Debug/CarLot.app/Contents/Resources/MyDocument.mom
+x/Users/kevinmcaleer/Xcode/CarLot/MyDocument.xcdatamodel
+lSLF07#2@63"Compile /Users/kevinmcaleer/Xcode/CarLot/MyDocument.xcdatamodel278691662#278691662#0(0"0(0#0#55"/Users/kevinmcaleer/Xcode/CarLot/MyDocument.xcdatamodel4300882208#243"    cd /Users/kevinmcaleer/Xcode/CarLot    /Developer/usr/bin/momc -XD_MOMC_TARGET_VERSION=10.6 /Users/kevinmcaleer/Xcode/CarLot/MyDocument.xcdatamodel /Users/kevinmcaleer/Xcode/CarLot/build/Debug/CarLot.app/Contents/Resources/MyDocument.mom0#
+
+CLd /Users/kevinmcaleer/Xcode/CarLot/build/Debug/CarLot.app/Contents/MacOS/CarLot normal x86_64
+s278691662.896581
+e278691663.568898
+r1
+xLd
+x/Users/kevinmcaleer/Xcode/CarLot/build/Debug/CarLot.app/Contents/MacOS/CarLot
+xnormal
+xx86_64
+lSLF07#2@82"Link /Users/kevinmcaleer/Xcode/CarLot/build/Debug/CarLot.app/Contents/MacOS/CarLot278691662#278691663#0(0"0(0#0#0"4300882208#507"    cd /Users/kevinmcaleer/Xcode/CarLot    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/kevinmcaleer/Xcode/CarLot/build/Debug -F/Users/kevinmcaleer/Xcode/CarLot/build/Debug -filelist /Users/kevinmcaleer/Xcode/CarLot/build/CarLot.build/Debug/CarLot.build/Objects-normal/x86_64/CarLot.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/kevinmcaleer/Xcode/CarLot/build/Debug/CarLot.app/Contents/MacOS/CarLot0#
+
+CProcessInfoPlistFile /Users/kevinmcaleer/Xcode/CarLot/build/Debug/CarLot.app/Contents/Info.plist CarLot-Info.plist
+s278691656.099713
+e278691656.109029
+r1
+xProcessInfoPlistFile
+x/Users/kevinmcaleer/Xcode/CarLot/build/Debug/CarLot.app/Contents/Info.plist
+xCarLot-Info.plist
+lSLF07#2@25"Process CarLot-Info.plist278691656#278691656#0(0"0(0#0#50"/Users/kevinmcaleer/Xcode/CarLot/CarLot-Info.plist32651574044786800#289"    cd /Users/kevinmcaleer/Xcode/CarLot    builtin-infoPlistUtility CarLot-Info.plist -genpkginfo /Users/kevinmcaleer/Xcode/CarLot/build/Debug/CarLot.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/kevinmcaleer/Xcode/CarLot/build/Debug/CarLot.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/wH/wHJERgQgE10b4aXHp8Utt++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CarLot_Prefix-dryxghjpplvfcpgqilnhulqqqiyh/CarLot_Prefix.pch.gch CarLot_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s278691656.873913
+e278691662.472879
+r1
+xProcessPCH
+x/var/folders/wH/wHJERgQgE10b4aXHp8Utt++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CarLot_Prefix-dryxghjpplvfcpgqilnhulqqqiyh/CarLot_Prefix.pch.gch
+xCarLot_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile CarLot_Prefix.pch278691656#278691662#0(0"0(0#0#50"/Users/kevinmcaleer/Xcode/CarLot/CarLot_Prefix.pch4300882208#940"    cd /Users/kevinmcaleer/Xcode/CarLot    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/kevinmcaleer/Xcode/CarLot/build/CarLot.build/Debug/CarLot.build/CarLot.hmap -F/Users/kevinmcaleer/Xcode/CarLot/build/Debug -I/Users/kevinmcaleer/Xcode/CarLot/build/Debug/include -I/Users/kevinmcaleer/Xcode/CarLot/build/CarLot.build/Debug/CarLot.build/DerivedSources/x86_64 -I/Users/kevinmcaleer/Xcode/CarLot/build/CarLot.build/Debug/CarLot.build/DerivedSources -c /Users/kevinmcaleer/Xcode/CarLot/CarLot_Prefix.pch -o /var/folders/wH/wHJERgQgE10b4aXHp8Utt++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CarLot_Prefix-dryxghjpplvfcpgqilnhulqqqiyh/CarLot_Prefix.pch.gch0#
+
+CTouch /Users/kevinmcaleer/Xcode/CarLot/build/Debug/CarLot.app
+s278691663.569036
+e278691663.573767
+r1
+xTouch
+x/Users/kevinmcaleer/Xcode/CarLot/build/Debug/CarLot.app
+lSLF07#2@61"Touch /Users/kevinmcaleer/Xcode/CarLot/build/Debug/CarLot.app278691663#278691663#0(0"0(0#0#0"4300882208#118"    cd /Users/kevinmcaleer/Xcode/CarLot    /usr/bin/touch -c /Users/kevinmcaleer/Xcode/CarLot/build/Debug/CarLot.app0#
+
